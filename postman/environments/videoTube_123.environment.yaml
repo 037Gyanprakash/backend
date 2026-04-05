@@ -1,2 +1,6 @@
 name: videoTube_123
-values: []
+values:
+  - key: server
+    value: 'http://localhost:8000/api/v1'
+    enabled: true
+    type: default

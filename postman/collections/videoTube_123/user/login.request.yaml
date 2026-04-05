@@ -1,5 +1,4 @@
 $kind: http-request
-name: register
 url: "{{server}}/users/login"
 method: POST
 body:
@@ -13,4 +12,4 @@ body:
     \r
 
     }"
-order: 1775040982637
+order: 3837660715563802
